@@ -216,16 +216,8 @@ Feel free to fork the repository and submit pull requests for improvements.
 - Add user progress tracking  
 - Add dark mode  
 - Improve animations and UI transitions  
-- Add offline support for audio files  
 
 ---
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-
----
-
 
 ## 📜 License
 
